@@ -4,7 +4,8 @@ import Footer from './Components/Footer'
 import Hero from './Components/Hero'
 import TokenCards from './Components/TokenCards'
 import MarketList from './Components/MarketList'
-import FAQ from './Components/Faq'
+import FAQ from './Components/FAQ';
+
 import CryptoDashboard from './Components/CryptoDashboard'
 
 
